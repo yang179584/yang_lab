@@ -1,0 +1,7 @@
+[
+  {"id": 1, "category": "food",   "amount": 23.5},
+  {"id": 2, "category": "books",  "amount": 45},
+  {"id": 3, "category": "food",   "amount": 12.3},
+  {"id": 4, "category": "travel", "amount": 120.0},
+  {"id": 5, "category": "books",  "amount": 30}
+]
